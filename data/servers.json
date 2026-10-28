@@ -4000,6 +4000,25 @@
     }
   },
   {
+    "name": "NebenkostenPro",
+    "url": "https://github.com/julianfaalk/nebenkostenpro-mcp",
+    "description": "Free remote MCP server for German utility costs (Nebenkosten): property tax rates for 10,304 municipalities, costs of 400 cities, housing benefit levels, deadlines and links to check or create a utility bill.",
+    "category": "data-analytics-and-bi",
+    "language": "Go",
+    "provider": "NebenkostenPro",
+    "tags": [
+      "germany",
+      "real-estate",
+      "utility-costs",
+      "property-tax",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://nebenkostenpro.de/mcp"
+    }
+  },
+  {
     "name": "WebExtract",
     "url": "https://github.com/nyx464664816-stack/webextract",
     "description": "Turns a public URL into structured JSON (product, tables, metadata) plus clean Markdown. 20 free calls a day per caller IP, then x402 USDC or credits. Sandbox benchmark, 10 pages: markdown 38/40, extract 40/40 (webextract.dev/benchmark).",

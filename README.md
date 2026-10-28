@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-464-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-465-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -49,7 +49,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (24)
 - [Communication and Productivity](#communication-and-productivity) (55)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (54)
-- [Data, Analytics, and BI](#data-analytics-and-bi) (49)
+- [Data, Analytics, and BI](#data-analytics-and-bi) (50)
 - [Legal and Court Data](#legal-and-court-data) (6)
 - [Security and Identity](#security-and-identity) (25)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (88)
@@ -737,6 +737,8 @@ Analytics platforms, monitoring, and business intelligence tooling.
   `analytics` `funnels` `product`
 - **[Mysocial](https://github.com/mysocialio/mysocial-intelligence)** `Official` `JavaScript` — Official hosted OAuth MCP for social media intelligence: connected content history, performance signals, and creator memory over Streamable HTTP.  
   `social-media` `content-memory` `analytics` `oauth`
+- **[NebenkostenPro](https://github.com/julianfaalk/nebenkostenpro-mcp)** `Official` `Go` — Free remote MCP server for German utility costs (Nebenkosten): property tax rates for 10,304 municipalities, costs of 400 cities, housing benefit levels, deadlines and links to check or create a utility bill.  
+  `germany` `real-estate` `utility-costs` `property-tax` `remote`
 - **[Netdata MCP Server](https://github.com/netdata/netdata)** `Official` `C` — Real-time infrastructure monitoring and health metrics via MCP.  
   `monitoring` `infra` `metrics`
 - **[Open Health Sync](https://github.com/soma-intelligence/open-health-sync)** `Official` `Go` — Read-only MCP server, over stdio or Streamable HTTP, for a self-hosted store of wearable and health data synced from Apple Health, Health Connect, Oura, WHOOP, Withings and 8 other sources.  
